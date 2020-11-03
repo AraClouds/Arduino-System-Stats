@@ -36,6 +36,8 @@ namespace Arduino_System_Stats
             InitializeComponent();
             
             InitPorts();
+            using (Process p = Process.GetCurrentProcess())
+                p.PriorityClass = ProcessPriorityClass.BelowNormal;
         }
 
         private void InitPorts()

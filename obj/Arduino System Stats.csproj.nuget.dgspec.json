@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Araviel\\source\\repos\\Arduino System Stats\\Arduino System Stats.csproj": {}
+    "C:\\Users\\Araviel\\source\\repos\\Arduino System Stats\\Arduino-System-Stats\\Arduino System Stats.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Araviel\\source\\repos\\Arduino System Stats\\Arduino System Stats.csproj": {
+    "C:\\Users\\Araviel\\source\\repos\\Arduino System Stats\\Arduino-System-Stats\\Arduino System Stats.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Araviel\\source\\repos\\Arduino System Stats\\Arduino System Stats.csproj",
+        "projectUniqueName": "C:\\Users\\Araviel\\source\\repos\\Arduino System Stats\\Arduino-System-Stats\\Arduino System Stats.csproj",
         "projectName": "Arduino System Stats",
-        "projectPath": "C:\\Users\\Araviel\\source\\repos\\Arduino System Stats\\Arduino System Stats.csproj",
+        "projectPath": "C:\\Users\\Araviel\\source\\repos\\Arduino System Stats\\Arduino-System-Stats\\Arduino System Stats.csproj",
         "packagesPath": "C:\\Users\\Araviel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Araviel\\source\\repos\\Arduino System Stats\\obj\\",
+        "outputPath": "C:\\Users\\Araviel\\source\\repos\\Arduino System Stats\\Arduino-System-Stats\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Araviel\\AppData\\Roaming\\NuGet\\NuGet.Config",

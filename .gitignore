@@ -39,3 +39,37 @@ obj/project.assets.json
 obj/project.nuget.cache
 obj/Arduino System Stats.csproj.nuget.dgspec.json
 obj/project.assets.json
+obj/project.nuget.cache
+obj/project.nuget.cache
+obj/Release/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+obj/Release/netcoreapp3.1/Arduino System Stats.AssemblyInfo.cs
+obj/Release/netcoreapp3.1/Arduino System Stats.AssemblyInfoInputs.cache
+obj/Release/netcoreapp3.1/Arduino System Stats.assets.cache
+obj/Release/netcoreapp3.1/Arduino System Stats.csproj.CopyComplete
+obj/Release/netcoreapp3.1/Arduino System Stats.csproj.CoreCompileInputs.cache
+obj/Release/netcoreapp3.1/Arduino System Stats.csproj.FileListAbsolute.txt
+obj/Release/netcoreapp3.1/Arduino System Stats.csproj.GenerateResource.cache
+obj/Release/netcoreapp3.1/Arduino System Stats.designer.deps.json
+obj/Release/netcoreapp3.1/Arduino System Stats.designer.runtimeconfig.json
+obj/Release/netcoreapp3.1/Arduino System Stats.dll
+obj/Release/netcoreapp3.1/Arduino System Stats.exe
+obj/Release/netcoreapp3.1/Arduino System Stats.genruntimeconfig.cache
+obj/Release/netcoreapp3.1/Arduino System Stats.pdb
+obj/Release/netcoreapp3.1/Arduino_System_Stats.Form1.resources
+bin/Release/netcoreapp3.1/System.Management.dll
+bin/Release/netcoreapp3.1/System.IO.Ports.dll
+bin/Release/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.IO.Ports.dll
+bin/Release/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Management.dll
+bin/Release/netcoreapp3.1/runtimes/osx/lib/netstandard2.0/System.IO.Ports.dll
+bin/Release/netcoreapp3.1/runtimes/osx-x64/native/System.IO.Ports.Native.dylib
+bin/Release/netcoreapp3.1/runtimes/linux/lib/netstandard2.0/System.IO.Ports.dll
+bin/Release/netcoreapp3.1/runtimes/linux-x64/native/System.IO.Ports.Native.so
+bin/Release/netcoreapp3.1/runtimes/linux-arm64/native/System.IO.Ports.Native.so
+bin/Release/netcoreapp3.1/runtimes/linux-arm/native/System.IO.Ports.Native.so
+bin/Release/netcoreapp3.1/NvAPIWrapper.dll
+bin/Release/netcoreapp3.1/Arduino System Stats.runtimeconfig.json
+bin/Release/netcoreapp3.1/Arduino System Stats.runtimeconfig.dev.json
+bin/Release/netcoreapp3.1/Arduino System Stats.pdb
+bin/Release/netcoreapp3.1/Arduino System Stats.exe
+bin/Release/netcoreapp3.1/Arduino System Stats.dll
+bin/Release/netcoreapp3.1/Arduino System Stats.deps.json
